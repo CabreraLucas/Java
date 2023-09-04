@@ -11,5 +11,9 @@ public class Exemplo {
         System.out.println("Olá!!");
         System.out.println(pf.getNome());
         System.out.println(pf.getCpf());
+
+        ExemploFor.execute();
+        ExemploWhile.execute();
+        ExemploCondicional.execute();
     }
 }
